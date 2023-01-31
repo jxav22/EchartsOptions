@@ -1,4 +1,14 @@
 {
   "name": "@jxav22/echarts-options",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "A simple library for creating the options object for an echarts-for-react component.",
+  "license": "MIT",
+  "repository": "jxav22/EchartsOptions",
+  "main": "index.js",
+  "keywords": [
+    "echarts-for-react",
+    "echarts",
+    "npm",
+    "package"
+  ]
 }
