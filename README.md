@@ -19,7 +19,7 @@ $ npm install @jxav22/echarts-options`
 
 ### Creating the options object
 ```
-import EchartsOptions from "EchartsOptions"; // or wherever "EchartsOptions.js" is
+import EchartsOptions from "@jxav22/echarts-options";
 
 const g = new EchartsOptions();
 ```
