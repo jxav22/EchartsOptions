@@ -129,7 +129,7 @@ g.title.extendHorizontally(20);
 ### Adding graphs to the series field
 
 ```
-import { GraphOptions } from "EchartsOptions";
+import { GraphOptions } from "@jxav22/echarts-options";
 ```
 
 ```
